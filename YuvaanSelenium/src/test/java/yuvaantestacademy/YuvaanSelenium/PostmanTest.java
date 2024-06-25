@@ -15,5 +15,12 @@ public class PostmanTest {
 		
 		System.out.println("Appium Testing is must for testing mobile applications");
 	}
+	
+	@Test
+	public void getRestAssured() {
+		
+		System.out.println("My Rest Assured concepts are clear now ");
+		
+	}
 
 }
