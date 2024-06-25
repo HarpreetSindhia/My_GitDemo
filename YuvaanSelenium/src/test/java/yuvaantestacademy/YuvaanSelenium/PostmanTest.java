@@ -9,5 +9,11 @@ public class PostmanTest {
 		
 		System.out.println("Hey Postman framework");
 	}
+	
+	@Test
+	public void getAppiumTesting() {
+		
+		System.out.println("Appium Testing is must for testing mobile applications");
+	}
 
 }
